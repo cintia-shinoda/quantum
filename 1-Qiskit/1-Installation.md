@@ -2,21 +2,42 @@
 
 1. create a new environment:
 - on VS Code: select Python interpreter conda
-- on terminal: ```conda create --name cwq```
+- on terminal: 
+```bash
+conda create --name cwq
+```
+<br>
 
 2. activate the environment:
-```conda activate cwq```
+```bash
+conda activate cwq
+```
+<br>
 
 3. install pip
-```conda install pip```
+```bash
+conda install pip
+```
+<br>
 
 4. install Qiskit
-```pip install qiskit```
+```bash
+pip install qiskit
+```
+<br>
 
 5. install other packages:
-```pip install matplotlib```
-```pip install qiskit_ibm_runtime```
-```pip install pylatexenc```
+```bash
+pip install matplotlib
+```
+
+```bash
+pip install qiskit_ibm_runtime
+```
+
+```bash
+pip install pylatexenc
+```
 
 
 IBM Quantum Platform: quantum.ibm.com
