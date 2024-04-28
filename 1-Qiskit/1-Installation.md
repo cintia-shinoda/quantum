@@ -39,6 +39,9 @@ pip install qiskit_ibm_runtime
 pip install pylatexenc
 ```
 
+```bash
+pip install qiskit_aer
+```
 
 IBM Quantum Platform: quantum.ibm.com
 - API Token
