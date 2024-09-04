@@ -44,4 +44,4 @@ pip install qiskit_aer
 ```
 
 IBM Quantum Platform: quantum.ibm.com
-- API Token
+- copiar API Token
