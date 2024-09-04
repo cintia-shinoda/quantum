@@ -1,32 +1,32 @@
-# Qiskit Installation
+# Instalação - Qiskit
 
-1. create a new environment:
-- on VS Code: select Python interpreter conda
-- on terminal: 
+1. criação de ambiente virtual:
+- VS Code: selecionar Python interpreter conda
+- Terminal: 
 ```bash
-conda create --name cwq
+conda create --nome cwq
 ```
 <br>
 
-2. activate the environment:
+2. ativação do ambiente virtual:
 ```bash
 conda activate cwq
 ```
 <br>
 
-3. install pip
+3. instalação do pip:
 ```bash
 conda install pip
 ```
 <br>
 
-4. install Qiskit
+4. instalação do Qiskit:
 ```bash
 pip install qiskit
 ```
 <br>
 
-5. install other packages:
+5. instalação de pacotes adicionais:
 ```bash
 pip install matplotlib
 ```
