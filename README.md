@@ -1,6 +1,7 @@
-##
+## Quantum Physics / Computing
 
 
 |  | # |  | Author | Status |
 |:---:|:---:|:-------|:-------|:------:|
-|  | 1 | Qiskit 1.x |  | ![0%](https://geps.dev/progress/0) |
+|  | 01 | $\LaTeX$ snippetes | - | - |
+|  | 02 | Qiskit 1.x |  | ![0%](https://geps.dev/progress/0) |
