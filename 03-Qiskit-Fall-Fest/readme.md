@@ -2,6 +2,8 @@
 
 November 2024
 
+![certificate](https://github.com/cintia-shinoda/quantum/blob/master/03-Qiskit-Fall-Fest/certificate.pdf)
+
 ## Cronograma
 | # | Data |  |  |
 |:---:|:---:|:---|:---|
