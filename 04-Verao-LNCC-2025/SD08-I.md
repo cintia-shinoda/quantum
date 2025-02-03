@@ -22,6 +22,8 @@ Professor: Yan Alef Chagas Silva (CIMATEC)
 - Overview do pyAQASM
     - Como funciona
 
+https://github.com/LAQCC/hands-on-qlm
+
 
 ----
 
@@ -106,3 +108,4 @@ Professor: Yan Alef Chagas Silva (CIMATEC)
 ---
 
 ## Algoritmos Quânticos
+### Algoritmo de Deutsch
