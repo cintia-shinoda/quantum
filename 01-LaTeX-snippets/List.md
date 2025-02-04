@@ -4,5 +4,7 @@
 \end{quantikz} -->
 
 $\bra{a}$
+
 $\ket{a}$
+
 $\braket{a}{b}$
