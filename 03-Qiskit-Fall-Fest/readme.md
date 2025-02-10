@@ -8,15 +8,15 @@ November 2024
 | # | Data |  |  |
 |:---:|:---:|:---|:---|
 | 01 | 16/11/2024 | Introdução ao Python | Wilson Oliveira da Fonseca |
-| 02 | 16/11/2024 | Primeiros Passos no Qiskit | Maria Angélica Krüger Miranda |
-| 03 | 18/11/2024 | A História da Computação Quântica | Douglas Jorge e Fabrício Kolk |
-| 04 | 18/11/2024 | Quantum 101 | Ana Paula Appel |
-| 05 | 18/11/2024 | Oportunidades de Carreira na Computação Quântica | Bruna Shinohara de Mendonça |
+| 02 | 16/11/2024 | [Primeiros Passos no Qiskit](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/02-1os-Passos-Qiskit) | Maria Angélica Krüger Miranda |
+| 03 | 18/11/2024 | [A História da Computação Quântica](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/03-Historia-Computacao-Quantica) | Douglas Jorge e Fabrício Kolk |
+| 04 | 18/11/2024 | [Quantum 101](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/04-Quantum-101) | Ana Paula Appel |
+| 05 | 18/11/2024 | [Oportunidades de Carreira na Computação Quântica](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/05-Oportunidades-Carreira-CQ) | Bruna Shinohara de Mendonça |
 | 06 | 19/11/2024 | Quantum Gravity meets Quantum Computing - Emerging Spacetime as Quantum Error Correction Code | Victoria Porozova |
-| 07 | 19/11/2024 | Quantum for Change - Previsão de Enchentes utilizando Computação Quântica | Gustavo Arruda |
-| 08 | 19/11/2024 | Simetrias no Aprendizado Quântico de Máquina | Jogi Suda Neto |
+| 07 | 19/11/2024 | [Quantum for Change - Previsão de Enchentes utilizando Computação Quântica](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/07-Quantum-for-Change) | Gustavo Arruda |
+| 08 | 19/11/2024 | [Simetrias no Aprendizado Quântico de Máquina](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/08-Simetrias-Aprendizado-Quantico) | Jogi Suda Neto |
 | 09 | 20/11/2024 | Algoritmos de Otimização Quântica | Letícia Bertuzzi |
-| 10 | 20/11/2024 | QSVM - Um Modelo Quântico para Machine Learning | Victor Leme Beltran |
+| 10 | 20/11/2024 | [QSVM - Um Modelo Quântico para Machine Learning](https://github.com/cintia-shinoda/quantum/tree/master/03-Qiskit-Fall-Fest/10-QSVM-Modelo-Quantico-ML) | Victor Leme Beltran |
 | 11 | 20/11/2024 | Cibersegurança na Era Quântica: Desafios e Oportunidades - Laboratório Avançado de Redes e Segurança (LARS) | Ricardo, Kelton, Felipe, Inaê |
 | 12 | 21/11/2024 | Expectativas e Desafios em Otimização Quântica | Samuraí Brito |
 | 13 | 21/11/2024 | Simulating Spin Biology Using Digitam Quantum Computer | Marcos Cesar de Oliveira |
