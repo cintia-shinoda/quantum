@@ -1,5 +1,10 @@
 # MT01 - Aprendizado de Máquina Quântico
 
+
+https://www.lncc.br/~gilson/verao2025/
+
+---
+
 ### Professores:
 - Gilson Giraldi (LNCC)
 - Leandro Carlos de Souza (UFPB)

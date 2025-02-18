@@ -1,6 +1,5 @@
 # Computação Quântica Avançada
 # Aula 01
-- Frank Henry Acasiete Quispe ( CIMATEC)
  
 
 ## Algoritmo de Shor
