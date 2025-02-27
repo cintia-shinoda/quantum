@@ -1,4 +1,6 @@
-# Representação de Dados em Computadores Quânticos
+# Aprendizado de Máquina Quântico - Aula 3
+
+## Representação de Dados em Computadores Quânticos
 
 https://www.youtube.com/live/aYE62fp1LfY?si=NSC3wHg81_fGsNWX
 
