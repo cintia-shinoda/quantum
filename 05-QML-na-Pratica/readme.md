@@ -1,11 +1,9 @@
 # QML
 
-<!-- https://www.pucpr.br/cursos-extensao/quantum-machine-learning-na-pratica -->
+<!-- https://www.pucpr.br/cursos-extensao/quantum-machine-learning-na-pratica  -->
 
 | # | Data |  |
 |:---:|:---:|:---|
-
-<!--
 | 01 | 15/08/2025 |  |
 | 02 | 16/08/2025 |  |
 | 03 | 22/08/2025 |  |
@@ -19,7 +17,6 @@
 ## Ementa
 
 ### Bloco I: Fundamentos e Configuração do Ambiente
-
 Aula 1: Introdução ao QML e Configuração de Ferramentas
 Visão geral do Quantum Machine Learning (QML), seu potencial e diferenças em relação ao aprendizado de máquina clássico. Configuração do ambiente de desenvolvimento com bibliotecas como Qiskit, PennyLane e Cirq. Demonstração de um “Hello World” em circuitos quânticos.
 
@@ -61,4 +58,4 @@ Aula 10: Execução em Hardware Quântico
 Diferenças entre simuladores e hardware real (IBM Quantum, Rigetti). Limitações de ruído e correção de erros.
 
 Aula 11: Limitações Atuais e Desafios Técnicos
-Diferenças entre simuladores e hardware real (IBM Quantum, Rigetti). Limitações de ruído e correção de erros. -->
+Diferenças entre simuladores e hardware real (IBM Quantum, Rigetti). Limitações de ruído e correção de erros.
